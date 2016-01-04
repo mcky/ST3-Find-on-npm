@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "View package on NPM",
+		"command": "find_package"
+	}
+]
